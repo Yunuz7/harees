@@ -1,3 +1,3 @@
 # harees
-Resume and cv
+ elegant CV
 
